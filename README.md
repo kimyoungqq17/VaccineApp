@@ -1,4 +1,4 @@
-# vacineApp
+# VaccineApp
 
 ## Task: develop and build a database application for a real world domain. 
 ## ![project description](https://github.com/kimyoungqq17/vacineApp/blob/main/README_IMG/description.PNG)
